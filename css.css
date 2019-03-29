@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Sans%27');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html, body, h3 {
   padding: 0;
@@ -15,7 +15,7 @@ header, aside {
 }
 
 h1, h3 {
-  font-family: 'PT Sans'
+  font-family: 'Roboto'
 }
 
 h1, .tagline {color: #47a;}
