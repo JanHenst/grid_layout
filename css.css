@@ -58,6 +58,7 @@ aside h3{
 aside a{
   text-decoration: none;
   padding: 2em 0;
+  padding-left: 1em;
   display: block;
 }
 
